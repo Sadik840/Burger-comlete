@@ -723,7 +723,7 @@
   }
   .body-2{
     padding: 60px 0px;
-    height:220vh;
+    height:230vh;
   }
 .heading button {
     width: 60%;
@@ -748,13 +748,16 @@
 .owl-theme .owl-dots .owl-dot{
   margin: 17px 5px;
 }
+ .owl-theme .owl-dots{
+   top:0px;
+  }
 .body-3 .col-md-6{
   display: flex;
   align-items: center;
 }
 .body-3{
   margin-top: 0px;
-  padding: 70px 0px
+  padding: 25px 0px
 }
 .body-4{
   height: 63vh;
